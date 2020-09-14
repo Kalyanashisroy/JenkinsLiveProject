@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16146" started-at="2020-08-24T10:15:08Z" finished-at="2020-08-24T10:15:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16146" started-at="2020-08-24T10:15:08Z" finished-at="2020-08-24T10:15:24Z">
+      <class name="com.Runner.Runner">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.Runner.Runner@598067a5]" name="openBrowser" is-config="true" duration-ms="9398" started-at="2020-08-24T15:45:08Z" finished-at="2020-08-24T15:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="VerifyJenkinsLive()[pri:0, instance:com.Runner.Runner@598067a5]" name="VerifyJenkinsLive" duration-ms="6380" started-at="2020-08-24T15:45:18Z" finished-at="2020-08-24T15:45:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyJenkinsLive -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Runner.Runner@598067a5]" name="closeBrowser" is-config="true" duration-ms="328" started-at="2020-08-24T15:45:24Z" finished-at="2020-08-24T15:45:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.Runner.Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
